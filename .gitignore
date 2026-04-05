@@ -1,0 +1,24 @@
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Large files - don't commit these
+*.dmg
+*.app
+assets/icon.iconset/
+
+# Model cache
+models/cache/
