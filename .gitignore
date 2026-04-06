@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual environments
+.venv/
+.venv312/
+venv/
+env/
+
+# PyInstaller build output
+build/
+dist/
+
+# macOS metadata
+.DS_Store
+._.DS_Store
+._*
+
+# Windows thumbnail cache
+Thumbs.db
+desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Local output audio files
+audio/outputs/

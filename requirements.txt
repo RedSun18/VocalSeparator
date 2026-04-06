@@ -1,0 +1,22 @@
+# VocalSeparator — Python dependencies
+# Install with: pip install -r requirements.txt
+
+# ── Core AI / ML ──────────────────────────────────────────
+torch>=2.1.0
+torchaudio>=2.1.0
+demucs>=4.0.0
+
+# ── Audio I/O ─────────────────────────────────────────────
+soundfile>=0.12.1
+librosa>=0.10.0
+pydub>=0.25.1
+ffmpeg-python>=0.2.0
+
+# ── Numerics ──────────────────────────────────────────────
+numpy>=1.24.0
+
+# ── GUI ───────────────────────────────────────────────────
+PySide6>=6.6.0
+
+# ── Packaging (optional) ──────────────────────────────────
+# pyinstaller>=6.0.0
